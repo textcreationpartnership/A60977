@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speech and confession of Mr. John Sovthworth a popish priest, at his execution at Tyburn, June 28, 1654 fully discovering the papists design to obtain toleration and liberty of conscience ; and to that end the late rebellion was begun and carried on : printed from the true copy found among other papers at the search of a Papists house.</title>
+            <author>Southworth, John, 1592-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60977</idno>
+            <idno type="STC">Wing S4775</idno>
+            <idno type="STC">ESTC R11599</idno>
+            <idno type="EEBO-CITATION">11910582</idno>
+            <idno type="OCLC">ocm 11910582</idno>
+            <idno type="VID">50804</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50804)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 514:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speech and confession of Mr. John Sovthworth a popish priest, at his execution at Tyburn, June 28, 1654 fully discovering the papists design to obtain toleration and liberty of conscience ; and to that end the late rebellion was begun and carried on : printed from the true copy found among other papers at the search of a Papists house.</title>
+                  <author>Southworth, John, 1592-1654.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Southworth, John, 1592-1654.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50804:1"/>
+            <pb facs="tcp:50804:1" rendition="simple:additions"/>
+            <p>THE LAST SPEECH AND CONFESSION OF Mr. <hi>JOHN SO<g ref="char:V">Ʋ</g>THWORTH</hi> A POPISH PRIEST, At his Execution at TYBURN <hi>JUNE</hi> 28. 1654.</p>
+            <p>Fully diſcovering the Papiſts Deſign to obtain Tolera<g ref="char:EOLhyphen"/>tion and Liberty of Conſcience; and to that end the late Rebellion was begun and carried on.</p>
+            <p>Printed from the true Copy found among other Papers at the ſearch of a Papiſts Houſe.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Brome,</hi> at the <hi>Gun</hi> at the Weſt End of S. <hi>Pauls.</hi> 1679.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:50804:2"/>
+            <head>To the READER.</head>
+            <p>WHoſoever ſhall read the following Speech made by a Popiſh Prieſt at his death, will have an opportunity (from the Diviner part) to diſcover the weakneſs of their Arguments, and how willing they are to blind themſelves, by neglecting to read and conſider the Scriptures, which, whoever does, it is impoſſible for him to be a Papiſt. From the Politick part ariſeth a proof of the Papiſts pretended Loyalty to their King, and a demonſtration of what they intended and aimed at. I would not be miſtaken, and be thought to involve thoſe (though few) noble and worthy Gentlemen of that perſuaſion, who faithfully ſerved our late King of bleſſed Me<g ref="char:EOLhyphen"/>mory, during all the War, and who have been as Loyal to our preſent Sove<g ref="char:EOLhyphen"/>reign (whoſe life God in mercy long continue) in the ſcandal and wickedneſs of their deſigning Jeſuites, Prieſts, and other the Chief amongſt them, who certainly were cauſe of, and ſtirred up the late Rebellion, contrived and brought to paſs the horrid Murther of our late King, as well as they have en<g ref="char:EOLhyphen"/>deavoured, and ſtill aim at the Aſſaſſination of his Royal Majeſty: not to name their rejoicings abroad, and arrogating to themſelves the Glory (as they termed it) of ſo horrid a Fact; and the known <hi>Putney</hi> Conſultation. There is yet li<g ref="char:EOLhyphen"/>ving a worthy Gentleman who was preſent with the Uſurper, when the then Lord <hi>Brudenel</hi> brought a Petition, which was delivered to <hi>Thurloe</hi> his Secre<g ref="char:EOLhyphen"/>tary, ſigned by the moſt, if not all the conſiderable Papiſts then in <hi>England,</hi> de<g ref="char:EOLhyphen"/>ſiring a Toleration and free Exerciſe of their Religion, and they would root out the Family of the <hi>Stuarts</hi> (as they termed our gracious Sovereign and his Royal Family.) I have but one obſervation more, that whereas the bloud of the Chriſtian Martyrs hath ever been the Increaſe of the true Church in what place ſoever it was ſpilt. It cannot be proved that hanging any Popiſh Prieſt hath for<g ref="char:EOLhyphen"/>merly contributed to the Converſion of numbers to that Church; and I am certain the late executing of thoſe worthily condemned Traitors, and the diſco<g ref="char:EOLhyphen"/>very of this Plot (for being Actors therein they have juſtly ſuffered) hath opened the eyes of many, to ſee and underſtand the truth, and powerfully brought them from longer continuing in that wicked Communion. And doubtleſs when the reſt of thoſe that are guilty of this damnable and helliſhly deſigned Plot, ſhall receive due puniſhment according to their deſerts, there will not be left any ground or pretence for a Papiſt to arrogate to himſelf the title of being a faith<g ref="char:EOLhyphen"/>ful Subject to the King of <hi>England,</hi> much leſs to remain in Communion with the <hi>Romiſh</hi> Church.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:50804:2"/>
+            <p>UPon Saturday being the twenty fourth day of <hi>June,</hi> 1654. Mr. <hi>John Southworth</hi> was called to the Bar at the <hi>Old Bayly,</hi> where he confeſſed himſelf a Prieſt, and a Condemned man for many years.</p>
+            <p>On Monday the 26, he was brought to the Bar again, where he was condemned to die. After Sentence given him, he deſired leave to ſpeak to the Bench, which was granted; and he deſired to come nearer, which he did, and falling upon his Knees, ſaid, <hi>O Lord I humbly thank thee, who haſt made me worthy to ſuffer for thy ſake.</hi>
+            </p>
+            <p>Then ſtanding up ſaid, <hi>I thank you for all what you have done, and your Civi<g ref="char:EOLhyphen"/>lities unto me. And I pray God to give you his grace, that you, and all this Nation may be converted to the true Roman Catholick and Apoſtolick Faith, and to remain in Heaven for ever with Jeſus Chriſt in glory.</hi>
+            </p>
+            <p>The Recorder anſwered, <hi>We thank you, and we join with you in the latter part, but not in the firſt.</hi>
+            </p>
+            <p>Upon Wedneſday the 28. he was drawn upon a Hurdle between two Male<g ref="char:EOLhyphen"/>factors condemned to die for High-Treaſon, from the Priſon to the place of Exe<g ref="char:EOLhyphen"/>cution, where immediately before his Execution he ſpake as followeth.</p>
+            <p>I Am come hither to die, and would willingly ſpeak ſomething, if I thought the weakneſs of my voice would give me leave to be heard. I am a <hi>Lancaſhire</hi> man, and am brought hither to die, not for any Crime I have committed againſt the Laws, but for being a Prieſt, and obeying the Commandments of my Saviour Jeſus Chriſt, and for profeſſing the true Roman Catholick and Apoſtolick Faith, in which I willingly die, and have earneſtly deſired the ſame. My ſtudy from my Infancy was to find out the true and onely way to ſerve God; and having found it, my ſtudy was to ſerve him. And I have ſuffered much, and many years impriſonment, to obtain that which I hope ere long I ſhall enjoy. Almighty God ſent his onely Son my Lord and Saviour Jeſus Chriſt into this World for the Re<g ref="char:EOLhyphen"/>demption of Mankind: and although the leaſt of his ſufferings was a ſuperabun<g ref="char:EOLhyphen"/>dant ſatisfaction, yet he reſted not ſo contented, but himſelf both by word and example, gave us a rule by which we ſhould be guided: he told S. <hi>Peter, Thou art a Rock, and upon this Rock will I build my Church, and the gates of Hell ſhall not prevail againſt it;</hi> which is the true Roman Catholick and Apoſtolick Church. He gave a Commandment to his Diſciples, ſaying, <hi>Go you forth, preach and teach to all Nations, Baptizing them in the Name of the Father, the Son, and the Holy Ghoſt:</hi> they gave the ſame to their Diſciples and Succeſſors; and by that ſucceſ<g ref="char:EOLhyphen"/>ſive depending Authority was I ſent to preach and teach in this my Nation, this was my Miſſion. And deeply reſenting my Saviours words, <hi>qui vult venire poſt me, He that will come after me, let him deny himſelf, and take up his Croſs and follow me;</hi> by which he meant the preſent perſecutions of this World, I took up this Croſs, and practiſed how to ſuffer, and as near as I could, learned the way to per<g ref="char:EOLhyphen"/>fection, and am now brought hither to put it in execution; never to my know<g ref="char:EOLhyphen"/>ledge, as a dying man, either ſpeaking, writing, or perſuading any thing againſt the Laws of this Nation, but performing my duty, and ſubmitting my ſelf to my Superiours, as I would have you all to do, both as to Spiritual and Temporal. I have been many years in learning this Leſſon of ſuffering for my Saviours ſake, which I am now to perform. My Saviour ſhewed me the way, for he died upon the Croſs for my ſake, and for his ſake I die (looking up) upon this, which is my Croſs, and willingly I embrace it.</p>
+            <pb n="2" facs="tcp:50804:3"/>
+            <p>The Lord Protector fought long for the Liberty of the Subject, and having obtained it, the people of this Nation were made to believe there ſhould be a general Liberty of Conſcience, and that no mans life ſhould be taken away for matter of Religion, for which onely I now ſuffer. It hath pleaſed God to put the Sword of Juſtice into the Lord Protectors hand, and to take it out of the Kings, that he ſhould rule this Nation well; and he ought to do juſtice to all in equal ballance, and that Catholicks being free-born Natives ſhould enjoy that Liberty as others do, ſo long as they live obedient Subjects to him, and to the Laws of this Nation. I plead not for my ſelf (for I come hither to die) but for the poor diſtreſſed Catholicks I leave behind me. Almighty God hath been pleaſed the Lord Protector ſhould do Juſtice in bloud and not in mercy, contrary both to his promiſe and duty, in ſubmiſſion to whoſe power, and obedience to my Superiours of the Roman Catholick Church, I am brought hither, and willing to obey. All other Opinions have Liberty of Conſcience, but even now we ſee the poor Catholicks are denied that priviledge, I am now to ſuffer for it. I ſee no reaſon why my life ſhould be taken away, for the Law ſhould be grounded upon Reaſon and Gods Word; this Law, which is mans Law, is repugnant to the Law of God.</p>
+            <p>For my Saviour ſaid, <hi>Go preach and teach to all Nations, Baptizing them in the Name of the Father, the Son, and the Holy Ghoſt,</hi> but the Innocent ſhould not be puniſhed for the offenders. The Angels in Heaven did rebel againſt God through pride, but how were they puniſhed? Not all the whole Hierarchy of Angels deſtroyed, but they onely who offended; the other Angels remained ſtill in glory. So I ſay, if any Catholicks ſhall offend the Law, and not ſhew themſelves true obedient Subjects, let thoſe who offend be ſeverely puniſhed, and not for one mans particular offence puniſh all. So let the Lord Protector do to the Catholicks of this Nation, who are Natives of this Land, and I am very confidently aſſured they are as true Subjects to his Highneſs and this preſent Go<g ref="char:EOLhyphen"/>vernment as it ſtands now eſtabliſhed, as any people of this Nation of what de<g ref="char:EOLhyphen"/>gree ſoever. And that they ſhould be the onely people aimed at for deſtruction! Truly it is a very hard caſe, and contrary to the Government in any place in the whole World. I therefore deſire the Lord Protector would grant them that Liberty of Conſcience equal with their fellow-Subjects, and that he may ſo go<g ref="char:EOLhyphen"/>vern as may be for the honour of God, and good of all people.</p>
+            <p>And being then interrupted ceaſed, ſpeaking any more aloud.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
